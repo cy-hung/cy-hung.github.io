@@ -8,6 +8,12 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 		<priority>1.0</priority>
 	</url>
 	<url>
+		<loc>https://cy-hung.github.io/index.html</loc>
+		<lastmod>2019-01-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
 		<loc>https://cy-hung.github.io/cv.html</loc>
 		<lastmod>2019-01-01</lastmod>
 		<changefreq>weekly</changefreq>
