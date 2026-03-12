@@ -3,50 +3,63 @@
 xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	<url>
 		<loc>https://cy-hung.github.io/index.html</loc>
-		<lastmod>2019-01-01</lastmod>
+		<lastmod>2026-01-01</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>https://cy-hung.github.io/cv.html</loc>
-		<lastmod>2019-01-01</lastmod>
+		<lastmod>2026-01-01</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>https://cy-hung.github.io/hhh.html</loc>
-		<lastmod>2019-01-01</lastmod>
+		<lastmod>2026-01-01</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>https://cy-hung.github.io/cad.html</loc>
-		<lastmod>2019-01-01</lastmod>
+		<lastmod>2026-01-01</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>https://cy-hung.github.io/chf.html</loc>
-		<lastmod>2019-01-01</lastmod>
+		<lastmod>2026-01-01</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>https://cy-hung.github.io/arr.html</loc>
-		<lastmod>2019-01-01</lastmod>
+		<lastmod>2026-01-01</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>https://cy-hung.github.io/pgy.html</loc>
-		<lastmod>2019-01-01</lastmod>
+		<lastmod>2026-01-01</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>https://cy-hung.github.io/his.html</loc>
-		<lastmod>2019-01-01</lastmod>
+		<lastmod>2026-01-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://cy-hung.github.io/dys.html</loc>
+		<lastmod>2026-01-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://cy-hung.github.io/eecp.html</loc>
+		<lastmod>2026-01-01</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
 </urlset>
+
